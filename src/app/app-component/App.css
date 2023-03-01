@@ -1,0 +1,7 @@
+@import './../modules/shared/header/header-component/Header.css';
+@import './../modules/pages/dishes/dishes-component/Dishes.css';
+@import './../modules/pages/countries/countries-component/Countries.css';
+
+.App {
+  text-align: center;
+}
